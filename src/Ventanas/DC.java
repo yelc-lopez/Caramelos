@@ -36,7 +36,8 @@ public class DC extends javax.swing.JFrame {
         jLabel7.setVisible(false);
         Si.setVisible(false);
         No.setVisible(false);
-        jLabel1.setVisible(false);     
+        jLabel1.setVisible(false);    
+        // modificacion 1 en github
     }
 
     /**
